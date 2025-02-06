@@ -1,0 +1,8 @@
+.cache/
+.idea/
+.vs/
+
+[Vv]cpkg/
+
+[Bb]in/
+[Bb]uild/

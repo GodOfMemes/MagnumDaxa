@@ -1,0 +1,20 @@
+{
+  "name": "magnumdaxa",
+  "version": "1.0.0",
+  "builtin-baseline": "aafb8b71554a4590aa5108bdb5005d81d72db6c1",
+  "dependencies": [
+    {
+      "name": "daxa",
+      "default-features": false,
+      "features": [
+        "utils-pipeline-manager-glslang",
+        "utils-task-graph"
+      ]
+    }
+  ],
+  "vcpkg-configuration": {
+    "overlay-ports": [
+      "./vendor/Daxa"
+    ]
+  }
+}

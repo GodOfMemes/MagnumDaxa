@@ -1,0 +1,12 @@
+[submodule "vendor/corrade"]
+	path = vendor/corrade
+	url = https://github.com/mosra/corrade.git
+[submodule "vendor/Daxa"]
+	path = vendor/Daxa
+	url = https://github.com/ShatteredWorld/Daxa.git
+[submodule "vendor/glfw"]
+	path = vendor/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "vendor/magnum"]
+	path = vendor/magnum
+	url = https://github.com/mosra/magnum.git
